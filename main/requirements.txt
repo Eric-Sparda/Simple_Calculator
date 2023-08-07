@@ -1,0 +1,4 @@
+# No additional requirements are needed, only standard libraries used.
+# But just in case I used following libs
+tkinter
+json
